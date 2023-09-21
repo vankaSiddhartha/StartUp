@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058538715032",
+    "project_id": "skillstar-247a7",
+    "storage_bucket": "skillstar-247a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058538715032:android:84fccb8a5845db2a879ded",
+        "android_client_info": {
+          "package_name": "com.vanka.skillstar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZEYkzDP87Sdtfapua1k5VabSuhfeER-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

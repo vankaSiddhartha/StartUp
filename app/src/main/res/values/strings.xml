@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SkillStar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_account">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="top_name">Skill ★</string>
+    <string name="next">Login</string>
+    <string name="email">Email</string>
+    <string name="clubs_tab_description">Switch to Clubs Tab</string>
+    <string name="my_clubs_tab_description">Switch to My Clubs Tab</string>
+    <string name="password">Password</string>
+    <string name="back">Back</string>
+    <string name="login">Login</string>
+    <string name="upload_your_profile">Upload your profile</string>
+    <string name="upload_image">Upload image</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="please_wait">Please wait</string>
+    <string name="title">Title</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at bibendum turpis, id condimentum justo.</string>
+    <string name="join_club">Join Club</string>
+    <string name="clubs">Clubs</string>
+    <string name="events">Events</string>
+    <string name="courses">Courses</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="my_clubs">My Clubs</string>
+    <string name="menu">Menu</string>
+    <string name="image">Image</string>
+    <string name="john_doe">John Doe</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_eget_metus_vel_arcu_blandit_lobortis">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget metus vel arcu blandit lobortis.</string>
+    <string name="ReadMore">Read More</string>
+    <string name="level">Level</string>
+    <string name="send_button">Send button</string>
+    <string name="chats">Chats</string>
+    <string name="projects">Projects</string>
+    <string name="videos">Videos</string>
+    <string name="discussion">Discussion</string>
+    <string name="post">Post</string>
+    <string name="upload_post">Upload Post</string>
+    <string name="type_something">type something..</string>
+    <string name="hint">  type something..</string>
+    <string name="add_image">Add Image</string>
+    <string name="submit">Submit</string>
+</resources>
