@@ -16,6 +16,12 @@
         android:theme="@style/Theme.SkillStar"
         tools:targetApi="31">
         <activity
+            android:name=".cources.VideoPlayer"
+            android:exported="false" />
+        <activity
+            android:name=".cources.Cource_Details"
+            android:exported="false" />
+        <activity
             android:name=".clubs.postUpload.UploadPost"
             android:exported="false" />
         <activity

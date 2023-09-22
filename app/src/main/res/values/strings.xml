@@ -43,4 +43,6 @@
     <string name="hint">  type something..</string>
     <string name="add_image">Add Image</string>
     <string name="submit">Submit</string>
+    <string name="course_description">Course Description</string>
+    <string name="event_title">Event Title</string>
 </resources>

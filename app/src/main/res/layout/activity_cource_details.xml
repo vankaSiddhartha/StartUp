@@ -5,13 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
-    tools:context=".events.EventsFragment">
+    tools:context=".cources.Cource_Details">
+
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/event_rv"
+        android:id="@+id/courses_rv"
+        tools:listitem="@layout/cource_card_chapter"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:listitem="@layout/event_card"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"

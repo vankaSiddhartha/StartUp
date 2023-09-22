@@ -26,11 +26,6 @@ private lateinit var viewModel:ViewModelVideoCource
 
         val adapter = CourseAdpter(requireContext())
         binding.coursesRv.adapter = adapter
-        viewModel.dataList.observe(requireActivity()) { data ->
-
-            adapter.setData(data)
-
-        }
         viewModel.isLoading.observe(viewLifecycleOwner) { isLoading ->
             if (isLoading) {
                 Loading.showAlertDialogForLoading(requireContext())
@@ -38,6 +33,12 @@ private lateinit var viewModel:ViewModelVideoCource
                 Loading.dismissDialogForLoading()
             }
         }
+        viewModel.dataList.observe(requireActivity()) { data ->
+
+            adapter.setData(data)
+
+        }
+
 
         return binding.root
     }

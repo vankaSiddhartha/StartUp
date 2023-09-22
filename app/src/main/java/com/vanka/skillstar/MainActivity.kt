@@ -6,6 +6,7 @@ import com.vanka.skillstar.clubs.ClubsFragment
 import com.vanka.skillstar.cources.Cources
 import com.vanka.skillstar.databinding.ActivityMainBinding
 import com.vanka.skillstar.events.EventsFragment
+import com.vanka.skillstar.profile.ProfileFragment
 import com.vanka.skillstar.reaptedCode.FragmentIntent.intentFragment
 
 class MainActivity : AppCompatActivity() {
@@ -16,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        intentFragment(R.id.frame, Cources(), this)
+        intentFragment(R.id.frame, ClubsFragment(), this)
         binding.bottomNavigationView.setOnItemSelectedListener { id ->
             when (id.itemId) {
                 R.id.clubs -> {
@@ -44,18 +45,11 @@ class MainActivity : AppCompatActivity() {
                     )
                     true
                 }
-                R.id.notification -> {
-                    intentFragment(
-                        R.id.frame,
-                        ClubsFragment(),
-                        this
-                    )
-                    true
-                }
+
                 R.id.profile -> {
                     intentFragment(
                         R.id.frame,
-                        ClubsFragment(),
+                        ProfileFragment(),
                         this
                     )
                     true
