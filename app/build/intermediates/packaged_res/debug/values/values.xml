@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#000000</color>
+    <color name="pink">#E91E63</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="ReadMore">Read More</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_link">  Add link</string>
+    <string name="add_with_image">Add with image</string>
+    <string name="app_name">SkillStar</string>
+    <string name="back">Back</string>
+    <string name="change_name">  Change Name</string>
+    <string name="change_profile">Change profile</string>
+    <string name="chats">Chats</string>
+    <string name="clubs">Clubs</string>
+    <string name="clubs_tab_description">Switch to Clubs Tab</string>
+    <string name="course_description">Course Description</string>
+    <string name="courses">Courses</string>
+    <string name="create_account">Create account</string>
+    <string name="discussion">Discussion</string>
+    <string name="email">Email</string>
+    <string name="enter_your_link">Enter your link</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="event_title">Event Title</string>
+    <string name="events">Events</string>
+    <string name="gcm_defaultSenderId" translatable="false">1058538715032</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZEYkzDP87Sdtfapua1k5VabSuhfeER-s</string>
+    <string name="google_app_id" translatable="false">1:1058538715032:android:84fccb8a5845db2a879ded</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZEYkzDP87Sdtfapua1k5VabSuhfeER-s</string>
+    <string name="google_storage_bucket" translatable="false">skillstar-247a7.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint">  type something..</string>
+    <string name="image">Image</string>
+    <string name="john_doe">John Doe</string>
+    <string name="join_club">Join Club</string>
+    <string name="join_meeting">Join Meeting</string>
+    <string name="level">Level</string>
+    <string name="login">Login</string>
+    <string name="login_account">Login</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at bibendum turpis, id condimentum justo.</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_eget_metus_vel_arcu_blandit_lobortis">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget metus vel arcu blandit lobortis.</string>
+    <string name="menu">Menu</string>
+    <string name="my_clubs">My Clubs</string>
+    <string name="my_clubs_tab_description">Switch to My Clubs Tab</string>
+    <string name="name">Name</string>
+    <string name="next">Login</string>
+    <string name="password">Password</string>
+    <string name="please_wait">Please wait</string>
+    <string name="post">Post</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">skillstar-247a7</string>
+    <string name="projects">Projects</string>
+    <string name="save_changes">Save changes</string>
+    <string name="search">Search</string>
+    <string name="send_button">Send button</string>
+    <string name="submit">Submit</string>
+    <string name="submit_your_project">Submit your project</string>
+    <string name="title">Title</string>
+    <string name="top_name">Skill ★</string>
+    <string name="type_something">type something..</string>
+    <string name="upload">Upload</string>
+    <string name="upload_image">Upload image</string>
+    <string name="upload_post">Upload Post</string>
+    <string name="upload_your_profile">Upload your profile</string>
+    <string name="videos">Videos</string>
+    <string name="write_description">Write description</string>
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="CustomActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:titleTextStyle">@style/CustomActionBarText</item>
+    </style>
+    <style name="CustomActionBarText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/bukhariscript</item>
+    </style>
+    <style name="Theme.SkillStar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/black</item>
+        
+
+    </style>
+</resources>

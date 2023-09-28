@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\event_card.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\event_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_upload_name.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_upload_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\activity_auth_container.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\activity_auth_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_events.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\cource_card_chapter.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\cource_card_chapter.xml"
+    },
+    {
+        "merged": "com.vanka.skillstar.app-mergeDebugResources-36:/layout/fragment_profile.xml",
+        "source": "com.vanka.skillstar.app-main-39:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_project.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_choose_auth.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_choose_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_clubs_chat.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_clubs_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\activity_club_fragment_holder.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\activity_club_fragment_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\activity_club_chat.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\activity_club_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\club_layout.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\club_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_clubs.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_clubs.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_bottom_sheet.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_create_account.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\project_item_layout.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\project_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_my_clubs.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_my_clubs.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_cources.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_cources.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\activity_cource_details.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\activity_cource_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\activity_video_player.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\activity_upload_post.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\activity_upload_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\course_card.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\course_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_notification.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\custom_progress_bar_for_loading_layout.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\custom_progress_bar_for_loading_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_upload_profile.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_upload_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_videos_course.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_videos_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\post_card_layout.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\post_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-mergeDebugResources-36:\\layout\\fragment_all_clubs.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.5\\com.vanka.skillstar.app-main-39:\\layout\\fragment_all_clubs.xml"
+    }
+]

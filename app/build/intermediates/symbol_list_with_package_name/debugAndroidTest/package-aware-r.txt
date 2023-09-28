@@ -1,0 +1,3 @@
+com.vanka.skillstar.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

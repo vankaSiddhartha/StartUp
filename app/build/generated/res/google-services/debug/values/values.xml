@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1058538715032</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZEYkzDP87Sdtfapua1k5VabSuhfeER-s</string>
+    <string name="google_app_id" translatable="false">1:1058538715032:android:84fccb8a5845db2a879ded</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZEYkzDP87Sdtfapua1k5VabSuhfeER-s</string>
+    <string name="google_storage_bucket" translatable="false">skillstar-247a7.appspot.com</string>
+    <string name="project_id" translatable="false">skillstar-247a7</string>
+</resources>
