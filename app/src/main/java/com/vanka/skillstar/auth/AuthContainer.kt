@@ -4,6 +4,7 @@ import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Window
+import androidx.core.content.ContextCompat
 import com.vanka.skillstar.R
 import com.vanka.skillstar.databinding.ActivityAuthContainerBinding
 import com.vanka.skillstar.reaptedCode.FragmentIntent.intentFragment
@@ -18,6 +19,7 @@ import com.vanka.skillstar.reaptedCode.FragmentIntent.intentFragment
         supportActionBar?.hide()
 
         val window: Window = window
+
 
         // Set the navigation bar color
         window.navigationBarColor = Color.BLACK
